@@ -1,0 +1,104 @@
+body {
+    overflow-x: hidden;
+}
+
+header {
+    text-align: center;
+    color: white;
+    background:#c2a984;
+}
+
+footer {
+    color: white;
+}
+
+footer h2 {
+    margin-bottom: 30px;
+    text-align: right;
+}
+.location {
+  text-align: right;
+}
+footer h3{
+  margin-bottom: 30px;
+  text-align: left;
+}
+footer .col-lg-12{
+  text-align: center;
+  font-size: 18px;
+}
+.btn-outline {
+    margin-top: 15px;
+    border: solid 2px #fff;
+    font-size: 20px;
+    color: #fff;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active,
+.btn-outline.active {
+    border: solid 2px #fff;
+    color: #18bc9c;
+    background: #fff;
+}
+.btn-social {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+}
+
+.btn:focus,
+.btn:active,
+.btn.active {
+    outline: 0;
+}
+.intro-text{
+  font-size: 30px;
+}
+.img-responsive{
+  width:30em;
+  height:30em;
+  margin-top:30px;
+  border-radius: 50%;
+}
+.navbar-brand{
+  font-size: 30px;
+  font-family: georgia;
+  color:white; text-decoration:none; font-weight:bold; font-size:50px;padding:10px; margin-top:100px;
+  }
+.container-home{
+  background-color: #c2a984;
+  height: 500px;
+}
+.left{
+  left: 0;
+}
+.split {
+height: 100%;
+width: 50%;
+
+}
+.right {
+right: 0;
+position: fixed;
+
+}
+.contact-text{
+margin-left: 1000px;
+margin-top:-400px;
+font-size: 30px;
+text-align: center;
+}
+.collapse.navbar-collapse{
+  margin-left: 1200px;
+  font-size:20px;
+  font-weight:bold;
+}
